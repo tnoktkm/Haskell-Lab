@@ -1,2 +1,2 @@
 # Haskell-Lab
-I met with Haskell code in second term 
+I got to know with Haskell code in second term 
